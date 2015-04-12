@@ -18,6 +18,7 @@ use \Symfony\Bundle\FrameworkBundle\Console\Application;
  * Description of Schema
  *
  * @author Marc Easen <marc@easen.co.uk>
+ * @co-author <demboo@tlen.pl>
  */
 class Schema extends ContainerAware
 {

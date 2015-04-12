@@ -1,5 +1,6 @@
 {
     "name": "demboo/mysql-workbench-schema-exporter-symfony2-bundle",
+    "version": "master",
     "type": "cli",
     "description": "MySQL Workbench Schema Exporter bundle for Symfony 2.2+",
     "keywords": ["mysql","workbench","database","doctrine","cli"],
